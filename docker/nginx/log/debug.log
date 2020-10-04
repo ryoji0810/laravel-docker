@@ -1,0 +1,2 @@
+2020/10/03 21:40:10 [info] 6#6: *1 client closed connection while waiting for request, client: 172.18.0.1, server: 0.0.0.0:80
+2020/10/04 09:34:31 [info] 6#6: *5 client timed out (110: Connection timed out) while waiting for request, client: 172.18.0.1, server: 0.0.0.0:80
